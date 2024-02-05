@@ -5,7 +5,7 @@
   },
   "name": "nestjs-kafkajs-module",
   "description": "## Roadmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "main.js",
   "directories": {
     "lib": "lib"
