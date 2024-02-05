@@ -1,5 +1,13 @@
 # nestjs-kafkajs-module
 
+Nest.js module for injecting Kafka.js producer and consumer in Nest.js application.
+
+## Installation
+
+```bash
+npm install nestjs-kafkajs-module
+```
+
 ## Usage
 
 ```typescript
@@ -36,6 +44,7 @@ class ExampleService {
 ## Roadmap
 
 - [x] Expose module to be able to inject Kafka.js producer and consumer in Nest.js application
-- [ ] Add CI
-- [ ] Add semantic versioning, publish to npm
+- [x] Add CI
+- [x] Publish to npm
+- [ ] Add semantic versioning
 - [ ] Build decorator for consumers
