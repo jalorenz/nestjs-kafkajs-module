@@ -23,7 +23,8 @@
   "keywords": [
     "Kafkajs",
     "Nestjs",
-    "Kafka"
+    "Kafka",
+    "Backend"
   ],
   "author": "janniklorenz1994@gmail.com",
   "license": "MIT",
