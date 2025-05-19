@@ -1,6 +1,6 @@
 # nestjs-kafkajs-module
 
-Nest.js module for injecting Kafka.js producer and consumer in Nest.js application.
+Nest.js module to inject Kafka.js producer and consumer in our Nestjs application.
 
 ## Installation
 
