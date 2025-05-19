@@ -40,11 +40,3 @@ class ExampleService {
     ) {}
 }
 ```
-
-## Roadmap
-
-- [x] Expose module to be able to inject Kafka.js producer and consumer in Nest.js application
-- [x] Add CI
-- [x] Publish to npm
-- [ ] Add semantic versioning
-- [ ] Build decorator for consumers
